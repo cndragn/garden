@@ -1,7 +1,7 @@
 # Site
-name: "Memoirs"
-title: "Memoirs"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
+name: "Garden Time"
+title: "Garden Time"
+description: "Adventures in Keeping My Houseplants Alive, Healthy and Thriving"
 logo: "assets/images/logo.png"
 favicon: "assets/images/logo.png"
 # baseurl: /jekyll-theme-memoirs
@@ -14,14 +14,14 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/donate/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+  candice:
+    name: Candice
+    display_name: Candice
+    gravatar: 4eab83fc3937494524270ebf10e0341e
+    # email: wowthemesnet@gmail.com
+    # web: https://www.wowthemes.net/donate/
+    # twitter: https://twitter.com/wowthemesnet
+    # description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
 
 # Plugins
 plugins:

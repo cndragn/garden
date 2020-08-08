@@ -9,7 +9,6 @@
   @include img-fluid();
 }
 
-
 // Image thumbnails
 .img-thumbnail {
   padding: $thumbnail-padding;
@@ -32,8 +31,11 @@
 }
 
 .figure-img {
-  margin-bottom: $spacer / 2;
+  padding: 0px 10px 5px 0;
+  max-width: 50%;
+  // margin-bottom: $spacer / 2;
   line-height: 1;
+  float: left;
 }
 
 .figure-caption {
