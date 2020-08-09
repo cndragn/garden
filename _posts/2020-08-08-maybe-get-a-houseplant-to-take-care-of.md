@@ -26,3 +26,5 @@ Thennnn...while waiting for those to arrive, I thought I'd give growing herbs an
 Today I bought a soil moisture meter so that I can stay on top of the plants that arent in self watering pots. I have a spare 6" ceramic pot, so I'll get another plant, maybe a legit snake plant. I also think it would be nice to have a plant in the bathroom, so I'll need to research what plants like humidity. And...and..and...
 
 Well, okay, I need to slow my roll and manage the plants I already have before I get more stuff...maybe.
+
+For more details about any of my plants, check out [Plant Details](../details)
