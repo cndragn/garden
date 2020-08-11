@@ -25,6 +25,8 @@ Does well when planted along with Oregano. Both of these herbs do better when no
 
 **Aug 10: Thyme spouted** Wasn't expecting this to happen for 3 weeks, but I already see sprouts!
 
+<hr/>
+
 <img class="figure-img" src="https://raw.githubusercontent.com/cndragn/garden/master/assets/images/thyme-oregano-aug7.jpg">
 
 **Aug 7: Planted thyme seeds** I used one of the travel pots from my other plants since they had drainage, then put it into a cute tin planter that Ski got awhile ago. I found a tip to cover with saran wrap until the seeds germinate, hopefully that will work!
