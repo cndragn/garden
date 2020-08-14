@@ -10,7 +10,7 @@ comments: false
 # toc: true
 ---
 
-Lookit!!! Looook! My Oregano woke up to say hello! And my Thyme is I knew it!!!!!! Pat isn't a snake plant! I found an app that identifies plants from a picture, and turns out I was actually sent a corn plant (Dracaena fragrans). They are tree-like and can grow up to 6' tall! Oye!!! But it's a flowering plant, so yay!
+I knew it!!!!!! Pat isn't a snake plant! I found an app that identifies plants from a picture, and turns out I was actually sent a corn plant (Dracaena fragrans). They are tree-like and can grow up to 6' tall! Oye!!! But it's a flowering plant, so yay!
 
 Misty's lily white leaves started turning green 😭 Looked up why and turns out more sunshine affects photosynthesis which makes it greener. So much conflicting info out there...I read the exact opposite that more sunshine makes it whiter!!! So I moved it from my office and into the dining room.
 

@@ -109,6 +109,8 @@ Sprouted: Aug 12
 
 **Aug 7: Planted oregano seeds** Like with thyme, these dont need a whole lot of water and prefer to be dried out, so I didnt put these in a self watering pot. I think that eventually, I'll get window planters with drainage and repot this with thyme.
 
+<hr/>
+
 #### Basil
 
 **Description and Care**
@@ -117,6 +119,15 @@ Germination: 5-10 days<br/>
 Harvest: 30-60 days<br/>
 Planted: Aug 12<br/>
 Check on: Aug 17
+
+Harvest:
+After the seedlings have produced their first six leaves, prune to above the second set. This encourages the plants to start branching, resulting in more leaves for harvest.
+
+Every time a branch has six to eight leaves, repeat pruning the branches back to their first set of leaves.
+
+After about 6 weeks, pinch off the center shoot to prevent early flowering. If flowers do grow, just cut them off.
+
+**Updates**
 
 **Aug 7: Planted basil seeds**
 
@@ -129,6 +140,8 @@ Harvest: 25-40 days<br/>
 Planted: Aug 12<br/>
 Check on: Aug 22
 
+**Updates**
+
 **Aug 7: Planted dill seeds**
 
 #### Chives
@@ -139,5 +152,11 @@ Germination: 10-14 days<br/>
 Harvest: 30-40 days<br/>
 Planted: Aug 12<br/>
 Check on: Aug 22
+
+lace the pot in a dark spot in temperatures 60 to 70 F. (15 to 21 C.) until the seeds sprout, then move them into the light.
+
+Once the chives are about a foot tall, simply snip off what you need.
+
+**Updates**
 
 **Aug 7: Planted chives seeds**
