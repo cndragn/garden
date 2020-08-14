@@ -2,8 +2,8 @@
 layout: post
 title: "Adventures with Pat and Misty"
 # author: candice
-categories: [Pkant Care]
-tags: [Pat, Misty]
+categories: [Plant Care, Herbs]
+tags: [Pat, Misty, Basil, Dill, Chives]
 image: assets/images/aug14.png
 comments: false
 # beforetoc: "Text before table of contents menu"
