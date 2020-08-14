@@ -19,7 +19,7 @@ The peace lily is an easy to care for plant that likes medium to low light. More
 
 **Aug 7 Correction, the spathes turn green in sunshine** So, what looks like a white flower is actually a special leaf, called a spathe, that grows over the actual flower which is the spikey thing at the end of the stem. Well..I noticed all of them were turning green. Turns out, more sunshine amplifies photosynthesis and makes the leaves green, whereas less sunshine makes them white. So, its still healthy! Just, not the pretty classic look of Peace Lily that I'd like. I've moved it back out of my office and into the dining room where its bright, but no direct sunshine. I also learned that the leaf that started turning brown is just a natural occurance that happens at the end of it's life cycle, which lasts about a month. So I just need to trim that one away and everything is good to go.
 
-<hr/>
+<hr/can>
 
 <img class="figure-img" src="https://raw.githubusercontent.com/cndragn/garden/master/assets/images/misty-aug7.jpg">
 
