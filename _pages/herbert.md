@@ -15,7 +15,7 @@ toc: true
 Germination: 21-28 days<br/>
 Harvest: 50-70 days<br/>
 Planted: Aug 7<br/>
-Check on: Aug 28
+Sprouted: Aug 10
 
 Does well when planted along with Oregano. Both of these herbs do better when not constantly watered. Water deeply only when soil is completely dry.
 
@@ -95,10 +95,49 @@ Check on: Aug 17
 Germination: 7-14 days<br/>
 Harvest: 35-44 days<br/>
 Planted: Aug 7<br/>
-Check on: Aug 14
+Sprouted: Aug 12
 
 **Updates**
+
+<img class="figure-img" src="https://raw.githubusercontent.com/cndragn/garden/master/assets/images/oregano-aug12.jpg">
+
+**Aug 12: Oregano sprouted** Teeny tiny sprouts, but they are off to a great start!
+
+<hr/>
 
 <img class="figure-img" src="https://raw.githubusercontent.com/cndragn/garden/master/assets/images/thyme-oregano-aug7.jpg">
 
 **Aug 7: Planted oregano seeds** Like with thyme, these dont need a whole lot of water and prefer to be dried out, so I didnt put these in a self watering pot. I think that eventually, I'll get window planters with drainage and repot this with thyme.
+
+#### Basil
+
+**Description and Care**
+
+Germination: 5-10 days<br/>
+Harvest: 30-60 days<br/>
+Planted: Aug 12<br/>
+Check on: Aug 17
+
+**Aug 7: Planted basil seeds**
+
+#### Dill
+
+**Description and Care**
+
+Germination: 10-14 days<br/>
+Harvest: 25-40 days<br/>
+Planted: Aug 12<br/>
+Check on: Aug 22
+
+**Aug 7: Planted dill seeds**
+
+#### Chives
+
+**Description and Care**
+
+Germination: 10-14 days<br/>
+Harvest: 30-40 days<br/>
+Planted: Aug 12<br/>
+Check on: Aug 22
+
+**Aug 7: Planted chives seeds**
