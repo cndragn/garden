@@ -1,19 +1,21 @@
 ---
 layout: page
-title: Pat (Snake Plant)
+title: Pat (Corn Plant)
 permalink: /pat
 comments: false
 image: assets/images/pat.jpg
 imageshadow: true
 ---
 
-#### Snake Plant | Sansevieria
+#### Corn Plant | Dracaena fragrans
 
 ##### Description and Care
 
-The snake plant is a great beginner plant because its easy to take care of and very resilient. Can survive low light and drought. Indirect sunlight, and let dry out between watering.
+The corn plant requires little care. The soil should be kept moist, but not soggy. Though it can handle low light, it does best in bright but indirect light. Avoid direct sun as it will burn the leaves. A few yellow leaves is normal, but too many may be a sign of overwatering.
 
 ##### Updates
+
+**Aug 14: Pat has been properly identified!** Using an app called PictureThis, I was able to find out what exactly Pat is! They feel so much more connected to it's roots now that it has a better understanding of itself, I'm quite sure of it. I've updated the plant name and description to reflect this new phase in Pat's life.
 
 <img class="figure-img" src="https://raw.githubusercontent.com/cndragn/garden/master/assets/images/pat-aug7.jpg">
 
