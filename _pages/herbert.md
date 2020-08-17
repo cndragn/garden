@@ -165,7 +165,7 @@ Sprouted: Aug 17
 Germination: 10-14 days<br/>
 Harvest: 30-40 days<br/>
 Planted: Aug 12<br/>
-Check on: Aug 22
+Sprouted: Aug 17
 
 lace the pot in a dark spot in temperatures 60 to 70 F. (15 to 21 C.) until the seeds sprout, then move them into the light.
 
@@ -173,6 +173,8 @@ Once the chives are about a foot tall, simply snip off what you need.
 
 **Updates**
 
-**Aug 7: Planted chives seeds**
+<img class="figure-img" src="https://raw.githubusercontent.com/cndragn/garden/master/assets/images/herberts/chives-aug17.jpg">
+
+**Aug 17: Chives sprouted** Way ahead of schedule Chives burst onto the scene! There was nothing to see when I did my morning rounds, but in the afternoon Chives decided it was done sitting in a dark closet and shot out the soil. I've moved them into the kitchen window to join the rest of the Herberts.
 
 <hr/>
