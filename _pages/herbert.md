@@ -40,11 +40,17 @@ Does well when planted along with Oregano. Both of these herbs do better when no
 Germination: 10-25 days<br/>
 Harvest: 30-60 days<br/>
 Planted: Aug 8<br/>
-Check on: Aug 18
+Sprouted: Aug 17
 
 Harvest when leaf stems have three segments. Cut leaves from the outer portions of the plant whenever you need them. Leave the inner portions of the plant to mature.
 
 **Updates**
+
+<img class="figure-img" src="https://raw.githubusercontent.com/cndragn/garden/master/assets/images/herberts/parsley-aug17.jpg">
+
+**Aug 7: Peeking Parsley** It's like playing Where's Waldo to see the teeny bit of Parsley, but it's there! I've decided to leave the saran wrap on for another day and hopefully more will come through soon.
+
+<hr/>
 
 <img class="figure-img" src="https://raw.githubusercontent.com/cndragn/garden/master/assets/images/herberts/parsley-aug7.jpg">
 
@@ -118,7 +124,7 @@ Sprouted: Aug 12
 Germination: 5-10 days<br/>
 Harvest: 30-60 days<br/>
 Planted: Aug 12<br/>
-Check on: Aug 17
+Sprouted: Aug 16
 
 Harvest:
 After the seedlings have produced their first six leaves, prune to above the second set. This encourages the plants to start branching, resulting in more leaves for harvest.
@@ -129,6 +135,12 @@ After about 6 weeks, pinch off the center shoot to prevent early flowering. If f
 
 **Updates**
 
+<img class="figure-img" src="https://raw.githubusercontent.com/cndragn/garden/master/assets/images/herberts/basil-aug16.jpg">
+
+**Aug 16: Basil sprouted** Right on time according to the germination schedule, Basil made its appearance today!
+
+<hr/>
+
 **Aug 7: Planted basil seeds**
 
 #### Dill
@@ -138,9 +150,15 @@ After about 6 weeks, pinch off the center shoot to prevent early flowering. If f
 Germination: 10-14 days<br/>
 Harvest: 25-40 days<br/>
 Planted: Aug 12<br/>
-Check on: Aug 22
+Sprouted: Aug 17
 
 **Updates**
+
+<img class="figure-img" src="https://raw.githubusercontent.com/cndragn/garden/master/assets/images/herberts/dill-aug17.jpg">
+
+**Aug 17: Dill sprouted** Dill wasted no time and coming in strong way ahead of the germination schedule!
+
+<hr/>
 
 **Aug 7: Planted dill seeds**
 
