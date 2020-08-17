@@ -48,7 +48,7 @@ Harvest when leaf stems have three segments. Cut leaves from the outer portions 
 
 <img class="figure-img" src="https://raw.githubusercontent.com/cndragn/garden/master/assets/images/herberts/parsley-aug17.jpg">
 
-**Aug 7: Peeking Parsley** It's like playing Where's Waldo to see the teeny bit of Parsley, but it's there! I've decided to leave the saran wrap on for another day and hopefully more will come through soon.
+**Aug 17: Peeking Parsley** It's like playing Where's Waldo to see the teeny bit of Parsley, but it's there! I've decided to leave the saran wrap on for another day and hopefully more will come through soon.
 
 <hr/>
 
