@@ -4,7 +4,7 @@ title: "Hello There Herb Thyme!"
 # author: candice
 categories: [Herbs, Seeds]
 tags: [Thyme]
-image: assets/images/thyme-aug10.png
+image: assets/images/2020/aug/thyme-aug10.png
 comments: false
 # beforetoc: "Text before table of contents menu"
 # toc: true

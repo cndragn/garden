@@ -2,18 +2,14 @@
 layout: post
 title: "Maybe get a plant to take care of..."
 # author: candice
-categories: [New Plants, Herbs]
+categories: [New Plants, Herbs, Succulents]
 tags:
   [Gemini, Luci, Misty, Pat, Herbert, Thyme, Mint, Oregano, Parsley, Oregano]
-image: assets/images/get-a-plant.jpg
+image: assets/images/2020/aug/get-a-plant.jpg
 comments: false
 # beforetoc: "Text before table of contents menu"
 # toc: true
 ---
-
-<!-- > Quote -->
-
-<!-- <img class="figure-img" src="../assets/images/16.jpg"> -->
 
 That's where all this started. About 2 weeks ago, it was suggested to me to get a plant as a pleasurable low key activity that would give me something to work on, and help me feel accomplished as I see it grow. I've killed every plant I've ever had, so I didnt think it was that great of an idea, but I decided to give it a shot.
 
