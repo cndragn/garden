@@ -160,3 +160,5 @@ Once the chives are about a foot tall, simply snip off what you need.
 **Updates**
 
 **Aug 7: Planted chives seeds**
+
+<hr/>
