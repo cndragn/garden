@@ -2,8 +2,8 @@
 layout: post
 title: "Hello Basil, Dill, and Parsley!"
 # author: candice
-categories: [Herbs, Seeds, Basil, Dill, Parsley]
-tags: [Duppy]
+categories: [Herbs, Seeds]
+tags: [Basil, Dill, Parsley]
 image: assets/images/2020/aug/herberts-aug17.png
 comments: false
 # beforetoc: "Text before table of contents menu"

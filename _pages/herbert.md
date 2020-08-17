@@ -141,8 +141,6 @@ After about 6 weeks, pinch off the center shoot to prevent early flowering. If f
 
 <hr/>
 
-**Aug 7: Planted basil seeds**
-
 #### Dill
 
 **Description and Care**
@@ -159,8 +157,6 @@ Sprouted: Aug 17
 **Aug 17: Dill sprouted** Dill wasted no time and coming in strong way ahead of the germination schedule!
 
 <hr/>
-
-**Aug 7: Planted dill seeds**
 
 #### Chives
 
