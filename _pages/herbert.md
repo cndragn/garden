@@ -84,9 +84,13 @@ Before planting seeds, gently crush them, let them soak for 24-48 hours, then le
 Germination: 10-15 days<br/>
 Harvest: 45-60 days<br/>
 Planted: Aug 7<br/>
-Check on: Aug 17
+Check on: Aug 27
+
+Needs light to germinate, do not cover with soil.
 
 **Updates**
+
+**Aug 17: Needs light to germinate** Today I learned mint seeds should not be covered with soil. That was ot in the guide I used for planting seeds. So..today I sprinkled more seeds on top of the soil. So the new check date is Aug 27.
 
 <img class="figure-img" src="https://raw.githubusercontent.com/cndragn/garden/master/assets/images/herberts/mint-aug7.jpg">
 
