@@ -64,14 +64,20 @@ Harvest when leaf stems have three segments. Cut leaves from the outer portions 
 
 Germination: 7-14 days<br/>
 Harvest: 50-70 days<br/>
-Planted: Aug 9<br/>
-Check on: Aug 16<br/>
+Planted: Aug 20<br/>
+Check on: Aug 27<br/>
 
 Before planting seeds, gently crush them, let them soak for 24-48 hours, then let them dry.
 
 **Updates**
 
+**Aug 20: Planted cilantro seeds II** After waiting almost two weeks with no sign of cilantro, I did some research and replanted with a few changes. I did not crush the seeds before soaking them overnight, did not cover the seeds with soil, and this time I put it in a dark place to germinate.
+
+<hr/>
+
 <img class="figure-img" src="https://raw.githubusercontent.com/cndragn/garden/master/assets/images/herberts/cilantro-aug7.jpg">
+
+**Aug 8: Planted cilantro seeds**
 
 **Aug 7: Soaking cilantro seeds** These will need a couple days of soaking before I can plant them. I'll put these in one of the self watering pots and cover with saran wrap.
 
@@ -83,7 +89,7 @@ Before planting seeds, gently crush them, let them soak for 24-48 hours, then le
 
 Germination: 10-15 days<br/>
 Harvest: 45-60 days<br/>
-Planted: Aug 7<br/>
+Planted: Aug 17<br/>
 Check on: Aug 27
 
 Needs light to germinate, do not cover with soil.
@@ -91,6 +97,8 @@ Needs light to germinate, do not cover with soil.
 **Updates**
 
 **Aug 17: Needs light to germinate** Today I learned mint seeds should not be covered with soil. That was ot in the guide I used for planting seeds. So..today I sprinkled more seeds on top of the soil. So the new check date is Aug 27.
+
+<hr/>
 
 <img class="figure-img" src="https://raw.githubusercontent.com/cndragn/garden/master/assets/images/herberts/mint-aug7.jpg">
 

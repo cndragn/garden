@@ -16,6 +16,6 @@ So now, over half of my herbs have sprouted!!! Just waiting for Cilantro, Mint, 
 
 Edit: I swear when I started updating my blog a couple hours ago, there was no sign of Chives. Just did my rounds because it's what I do all day everyday, and noticed the Chives have arrived! Man, that was fast...! I've moved them out of the dark closet they were in for germination, and let them join the rest of the Herbert's in the kitchen window.
 
-Edit 2: Did some research to find out whats going on with my herbs that havent sprouted yet. Found out that mint needs light to germinate, so I sprinkled some seeds on top. Hopefully, I'll see some progress with that over the next few days. No idea whats going on with the Cilantro though.
+Edit 2: Did some research to find out whats going on with my herbs that havent sprouted yet. Found out that mint needs light to germinate so I sprinkled some seeds on top. Hopefully I'll see some progress with Herbert Mint over the next few days. No idea whats going on with Cilantro though.
 
 For more details about any of my plants, check out [Plant Details](../details)
