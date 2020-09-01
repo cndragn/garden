@@ -19,6 +19,12 @@ Graptopetalum should be watered using the “soak and dry” method. Be sure tha
 
 ##### Updates
 
+<img class="figure-img" src="https://raw.githubusercontent.com/cndragn/garden/master/assets/images/duppy/duppy-sept01.jpg">
+
+**Sept 01** It's hard to believe this is the same plant! And theres a baby Duppy growing so well too!
+
+<hr/>
+
 <img class="figure-img" src="https://raw.githubusercontent.com/cndragn/garden/master/assets/images/duppy/duppy-aug17.jpg">
 
 **Aug 17: It's aliiiiive!** After only two days, Duppy is looking incredible! So exciting to see how fast it turned around!
