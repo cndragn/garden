@@ -10,9 +10,19 @@ toc: true
 
 #### Updates
 
+**Sept 01: Chives died, starting over**
+
+<img class="figure-img" src="https://raw.githubusercontent.com/cndragn/garden/master/assets/images/herberts/chives-sept01.jpg">
+
+Wish I'd taken a pic of how my chives were doing a week or so ago. They sprouted, started growing, then just...stopped. And then, they all died :( So, did some research and realized its one of those herbs that can't handle constant water, so being in the self watering pot killed it.
+
+I've started over today, its still in the same pot, I just emptied the water reserve, planted seeds and put it in the closet to germinate. Hopefully, better luck this time.
+
+<hr/>
+
 **Aug 31 Moved Chives, Mint, Oregano & Thyme Outside**
 
-Chives, Mint, Oregano and Thyme were struggling to grow while all the other Herberts are thriving, so I feel like hey are not getting enough sun in the kitchen window. I've moved them outside, so hopefully I'll start seeing a difference soon. I also planted more seeds for Mint because there is still just that one solitary teeny little sprout.
+Chives, Mint, Oregano and Thyme were struggling to grow while all the other Herberts are thriving, so I feel like they are not getting enough sun in the kitchen window. I've moved them outside, so hopefully I'll start seeing a difference soon. I also planted more seeds for Mint because there is still just that one solitary teeny little sprout.
 
 <hr/>
 
