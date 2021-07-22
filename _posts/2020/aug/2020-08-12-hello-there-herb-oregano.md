@@ -2,8 +2,8 @@
 layout: post
 title: "Hello There Herb Oregano!"
 # author: candice
-categories: [Herbs, Seeds]
-tags: [Oregano, Basil, Dill, Chives]
+categories: [Herbs, Seeds, Germination]
+tags: []
 image: assets/images/2020/aug/aug12.png
 comments: false
 # beforetoc: "Text before table of contents menu"

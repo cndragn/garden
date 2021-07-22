@@ -2,8 +2,8 @@
 layout: post
 title: "Introducing...Duppy!"
 # author: candice
-categories: [Plant Care, Succulents]
-tags: [Duppy]
+categories: [Succulent, Plant Care, Progress]
+tags: []
 image: assets/images/2020/aug/duppy-aug15.png
 comments: false
 # beforetoc: "Text before table of contents menu"

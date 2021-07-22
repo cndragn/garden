@@ -2,9 +2,8 @@
 layout: post
 title: "Maybe get a plant to take care of..."
 # author: candice
-categories: [New Plants, Herbs, Succulents]
-tags:
-  [Gemini, Luci, Misty, Pat, Herbert, Thyme, Mint, Oregano, Parsley, Oregano]
+categories: [New Plants, Herbs, Succulent, Pothos, Peace Lily, Corn Plant, Supplies]
+tags: []
 image: assets/images/2020/aug/get-a-plant.jpg
 comments: false
 # beforetoc: "Text before table of contents menu"

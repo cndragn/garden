@@ -2,8 +2,8 @@
 layout: post
 title: "Hello There Herb Thyme!"
 # author: candice
-categories: [Herbs, Seeds]
-tags: [Thyme]
+categories: [Herbs, Germination]
+tags: []
 image: assets/images/2020/aug/thyme-aug10.png
 comments: false
 # beforetoc: "Text before table of contents menu"

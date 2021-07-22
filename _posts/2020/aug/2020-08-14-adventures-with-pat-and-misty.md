@@ -2,8 +2,8 @@
 layout: post
 title: "Adventures with Pat and Misty"
 # author: candice
-categories: [Plant Care]
-tags: [Pat, Misty]
+categories: [Corn Plant, Peace Lily, Plant Care]
+tags: []
 image: assets/images/2020/aug/aug14.png
 comments: false
 # beforetoc: "Text before table of contents menu"
