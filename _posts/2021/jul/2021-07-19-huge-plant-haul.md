@@ -10,7 +10,7 @@ comments: false
 # toc: true
 ---
 
-A friend of mine introduced me to a guy who, like me, started getting interested in plants during the pandemic. Like me, one plant quickly turned into all the plants, but he kept going, and going until he had nearly 90 of them!!  He decided it was time to let some of them go so of course I had to adopt a few of those lovelies!!  
+A friend of mine introduced me to a guy who also started getting interested in plants during the pandemic. Like me, one plant quickly turned into all the plants, but he kept going, and going until he had nearly 90 of them!!  He decided it was time to let some of them go so of course I had to adopt a few of those lovelies!!  
 
 I think I showed a decent amount of restraint, and only chose 10 of them to add to my plant family.  I'm very excited over Bubbles the Monstera.  I think Monsteras are so beautiful, but they get so huge...this one is much smaller and trailing which is pretty cool! I also got Cain the Camoflauge Dieffenbachia and Sprite the Lemon Lime Prayer Plant.  I picked up five Calatheas: Vittus a Vittata, Veronica a Picturata Silver, Laurel a Medallion, and Sirius and Stilletto. They are both the same plant, but go by several different common names, so just based which name I used on how they look: Sirius goes by Beauty Star and Stilletto, which is now the largest plant I own and my only floor plant, is the Pinstripe.  I also added two more Pothos, Serima the N'Joy and Charmeuse the Satin.  Apparently Satin Pothos isnt really a pothos...but it sure looks like one so it's commonly sold as one.
 
