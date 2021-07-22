@@ -7,28 +7,48 @@ comments: false
 
 Plant descriptions, care info, tips, photos and updates about each of my plants :)
 
-In order acquired:
+2020 - July:
 
-[Gemini (Aloe)](gemini.md)
+[Gemini (Aloe)](gemini)
 
-[Misty (Peace Lily)](misty.md)
+[Luci (Golden Pothos)](luci)
 
-[Luci (Golden Pothos)](luci.md)
+[Misty (Peace Lily)](misty)
 
-[The Herbert's (various herbs)](herbert.md)
+2021 - July:
 
-[Ducky (Rubber Plant)](ducky.md)
+[Bubbles (Monstera)](bubbles)
 
-[Malachi (Jade Plant)](malachi.md)
+[Cain (Dumb Cane Camouflage)](cain)
 
-[Naga (Snake Plant)](naga.md)
+[Charmeuse (Satin Pothos)](charmeuse)
 
-[Victoria (Marble Queen Pothos)](victoria.md)
+[Ducky (Rubber Plant)](ducky)
 
-[Zoltan (Earth Star)](zoltan.md)
+[The Herbert's (various herbs)](herbert)
+
+[Laurel (Calethea Medallion)](laurel)
+
+[Malachi (Jade Plant)](malachi)
+
+[Naga (Snake Plant)](naga)
+
+[Serima (N'Joy Pothos)](serima)
+
+[Sirius (Calathea Beauty Star)](sirius)
+
+[Sprite (Lemon Lime Prayer Plant)](sprite)
+
+[Stilletto (Calathea Pinstripe)](stilletto)
+
+[Veronica (Calathea Picturata Silver)](veronica)
+
+[Victoria (Marble Queen Pothos)](victoria)
+
+[Vittus (Calathea Vittata)](vittus)
+
+[Zoltan (Earth Star)](zoltan)
 
 Gone but not forgotten...
 
-In order of loss:
-
-[Pat (Corn Plant)](pat.md)
+July 2020 - Winter 2020: [Pat (Corn Plant)](pat)
