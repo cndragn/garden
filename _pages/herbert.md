@@ -8,7 +8,7 @@ imageshadow: true
 toc: true
 ---
 
-#### Updates
+**Updates**
 
 **Jul 20, 2021: Everything died, starting over...again!**
 
@@ -122,91 +122,207 @@ I put Mint in a self watering pot. There wasn't a whole lot of info about mint e
 
 Like with thyme, Oregano doesn't need a whole lot of water and prefer to be dried out, so I didnt put these in a self watering pot. I think that eventually, I'll get window planters with drainage and repot this with thyme.
 
-<hr/>
+---
 
-#### Thyme
+**Herb Care**
 
-Germination: 21-28 days<br/>
-Harvest: 50-70 days<br/>
-Planted: Jul 9<br/>
+##### Basil
 
-Does well when planted along with Oregano. Both of these herbs do better when not constantly watered. Water deeply only when soil is completely dry.
+**Light:** Full Sun\
+**Mature Size:** 1-2 feet tall and wide\
+**Water** moist but well drained\
+**Fertilizer** if growth is weak, fertilze once a month\
+**Flowering** pinch off center shoot to prevent flowering. if flowers grow, cut them\
+**Prune** After the seedlings have produced their first six leaves, prune to above the second set. Keep pruned bac to top 6-8 leaves. Prune regularly to encourage growth\
+**Harvest** Once plant is 6-8" tall. Best storage method is freezing\
+**Repotting** Can get woody after 3-4 years. Remove, separeate and replant smaller pieces in fresh potting mix.\
+**Propagate** Stem cutting. Clip 3 inches from top, plant in sand or vermiculite. Roots will emerge in 6 weeks.
 
-#### Parsley
+**From Seed**\
+Germination: 5-10 days\
+Harvest: 30-60 days
 
-Germination: 10-25 days<br/>
-Harvest: 30-60 days<br/>
-Planted: Jul 9<br/>
+---
 
-Harvest when leaf stems have three segments. Cut leaves from the outer portions of the plant whenever you need them. Leave the inner portions of the plant to mature.
+##### Chives
 
-#### Cilantro
+**Light:** Full Sun\
+**Mature Size:** 10-15 inches tall and wide\
+**Water** keep moist\
+**Fertilizer** once in late spring to early summer\
+**Flowering** late spring to early summer. Edible. cut back flowers to prevent it from going to seed\
+**Prune** deadhead flowers\
+**Harvest** Continual harvest within a couple months of planting. Cut down to base about 1-2" from soil. New plants 3- 5 times in first year, mature plants once a month. Store frozen\
+**Propagate** Division. Even if not using more, use division to thin out plant every few years.
 
-Germination: 7-14 days<br/>
-Harvest: 50-70 days<br/>
-Planted: Jul 9<br/>
+**From Seed**\
+Sow close to surface. Place the pot in a dark spot in temperatures 60 to 70 F. (15 to 21 C.) until the seeds sprout, then move them into the light.
 
-Before planting seeds, gently crush them, let them soak for 24-48 hours, then let them dry.
+Germination: 10-14 days\
+Harvest: 30-40 days
 
-#### Mint
+---
 
-Germination: 10-15 days<br/>
-Harvest: 45-60 days<br/>
-Planted: Jul 9<br/>
+##### Cilantro
 
-Needs light to germinate, do not cover with soil.
+**Light:** Full Sun, partial shade\
+**Mature Size:** 1-2 feet tall, a foot wide\
+**Water** keep moist\
+**Fertilizer** once or twice during growing season\
+**Flowering** at end of life cycle, it will send up a long stalk which will produce blossoms to collect seeds from. leaves on bolted plants tend to be bitter\
+**Harvest** In under a month, around 6 inches tall. Pinch back leaves, or portions of upper stem. Store by freezing or drying\
 
-#### Oregano
+**From Seed** \
+Before planting seeds, gently crush them, let them soak for 24-48 hours. Plant in light, well drained soil. sow at 3 week intervals for continued harvest. Keep moist
 
-Germination: 7-14 days<br/>
-Harvest: 35-44 days<br/>
-Planted: Aug 7<br/>
+Germination: 7-14 days\
+Harvest: 50-70 days
 
-#### Basil
+---
 
-Germination: 5-10 days<br/>
-Harvest: 30-60 days<br/>
-Planted: Jul 9<br/>
+##### Dill
 
-Harvest:
-After the seedlings have produced their first six leaves, prune to above the second set. This encourages the plants to start branching, resulting in more leaves for harvest.
+**Light:** Full Sun\
+**Mature Size:** 3-5 feet tall and 2-3 feet wide\
+**Water** consistently moist, never let dry out\
+**Fertilizer** shouldnt require it\
+**Flowering** once flowers develop, foilage stops developing. When temperatures rise, dill tends to "bolt" and send up flower stalks so it can set seeds. Cut the flower stalks after the yellow blooms have faded to collect seeds\
+**Prune** pinch back often to encourage growth\
+**Harvest** Start when plant has 4-5 leaves. Pinch or cut. If its full, can take whole stalk. Store frozen or dried\
 
-Every time a branch has six to eight leaves, repeat pruning the branches back to their first set of leaves.
+**From Seed** \
+plant 1/4" deep keep moist. Plant every couple weeks til mid summer to keep a constant supply through fall.
 
-After about 6 weeks, pinch off the center shoot to prevent early flowering. If flowers do grow, just cut them off.
-
-#### Dill
-
-Germination: 10-14 days<br/>
-Harvest: 25-40 days<br/>
-Planted: Jul 9<br/>
+Germination: 10-14 days\
+Harvest: 25-40 days\
 
 Dill grows a long tap root, and needs a container at least 12 inches deep.
 
-When temperatures rise, dill tends to "bolt" and send up flower stalks so it can set seeds. Cut the flower stalks after the yellow blooms have faded, place a small paper bag with a few tiny holes for ventilation, and wait for the seeds to fall and gather in the bottom of the bag.
+---
 
-#### Chives
+##### Marjoram
 
-Germination: 10-14 days<br/>
-Harvest: 30-40 days<br/>
-Planted: Jul 9<br/>
+**Light:** Full Sun\
+**Mature Size:** 1-2 feet tall and wide\
+**Water** allow soil to dry out before watering deeply\
+**Fertilizer** once a month\
+**Flowering** not a sign of bolting\
+**Prune** trim back to encourage growth\
+**Harvest** Store by drying\
+**Propagate** Division
 
-Place the pot in a dark spot in temperatures 60 to 70 F. (15 to 21 C.) until the seeds sprout, then move them into the light.
+**From Seed** \
+Soak seeds overnight, then plant in tray cells 1/4" deep. Keep in bright area and keep moist.
 
-Once the chives are about a foot tall, simply snip off what you need.
+Germination: 14-21 days\
+Harvest: 60 days
 
-#### Marjoram
+---
 
-Germination: 14-21 days<br/>
-Harvest: 60 days<br/>
-Planted: Jul 9<br/>
+##### Mint
 
-After seeding, keep soil moist and give around 16hrs of light a day.
+**Light:** Full and partial sun\
+**Mature Size:** 12-18 inches tall, 18-24 inches wide\
+**Water** Keep moist\
+**Fertilizer** throughout growing season\
+**Prune** if stems are getting longer and leaves getting smaller, cut plant back by 1/3 to a half to encourage growth\
+**Harvest** Year round. Around 2 months when stems are 6-8 inches long. Do not harvest more than 1/3 at once.\
+**Propagate** Stem cutting. Just before flowering, clip 3-6 inches from top, place in water or soil. Takes a couple weeks. Once roots are a few inches long, place in soil. Once container is root bound, propagate instead of repotting.
 
-#### Tarragon
+**From Seed** \
+Needs light to germinate, do not cover with soil. Keep moist.
 
-Germination: 7-14 days<br/>
-Harvest: 90 days<br/>
-Planted: Jul 9<br/>
+Germination: 10-15 days\
+Harvest: 45-60 days
 
-Leaves can be harvested as soon as the shoots are about six inches tall. Cut the stem back to four to six inches, just below a leaf node.
+---
+
+##### Oregano
+
+**Light:** Full Sun\
+**Mature Size:** 2 feet tall, 18 inches wide\
+**Water** allow soil to dry out somewhat before watering deeply\
+**Fertilizer** not necessary\
+**Flowering** pinch back, flowers will keep it from being flavorful\
+**Prune** start pinching back weekly once it hits 4" tall. cut stem to ground if it becomes woody\
+**Harvest** once it reaches 4-5", cut springs. Freeze to store\
+**Repotting** Better to start over if plant is overgrown and woody\
+**Propagate** Division or cutting. Spring through fall. Cuttings 3-5", diagonal. trim leaves from bottom third and place in water.
+
+**From Seed** \
+Needs light, only cover lightly with soil.
+
+Germination: 7-14 days\
+Harvest: 35-44 days
+
+---
+
+##### Parsley
+
+**Light:** Full Sun to part shade\
+**Mature Size:** 6-12 inches tall and wide\
+**Water** keep moist, do not allow to dry out\
+**Fertilizer** once a month in spring diluted half strength\
+**Harvest** Year round. When it has at least 3 segments. Harvest whole outer stems from base of plant. Try not to remove more than 1/3 of plant at a time\
+**Annual** Will continue to grow
+
+**From seed**\
+Stratify seeds and speed up germination by chilling them in the fridge, then soaking them overnight in warm water. Sow 1/4 inch deep. Keep moist.
+Germination: 2-4 weeks\
+Harvest: 12-14 weeks
+
+---
+
+##### Tarragon
+
+**Light:** Part Sun, Part Shade, Full light fine if not hot\
+**Mature Size:** 2 feet tall\
+**Water** allow soil to dry out before watering deeply. Drought resistant\
+**Fertilizer** Not needed\
+**Flowering** Doesnt flower or seed\
+**Prune** Keep trimmed back just below leaf node to encourage growth\
+**Harvest** Up through late summer/August. Once at least 6" tall. Store dried, frozen better\
+**Propagate** Stem cutting in late spring, early summer. Clip 5-6". Division every 3-4yrs in spring to fall. Don't allow to become root bound before dividing.
+
+**From Seed** \
+Germination: 7-14 days\
+Harvest: 90 days
+
+---
+
+##### Thyme
+
+**Light:** Full Sun\
+**Mature Size:** 6-12 inches tall and wide\
+**Water** allow soil to dry out before watering deeply\
+**Fertilizer** prefers soil that lacks nutrients\
+**Flowering** not a sign of bolting\
+**Prune** trim back in spring and summmer to promote growth. Always leave at least 5 inches\
+**Harvest** At any time once mature. Store dry or frozen\
+**Repotting** Can get woody after 3-4 years. Remove, separeate and replant smaller pieces in fresh potting mix.\
+**Propagate** Stem cutting. Clip 3 inches from top, plant in sand or vermiculite. Roots will emerge in 6 weeks.
+
+**From Seed** \
+Plant seeds on surface or barely covered with soil.\
+Germination: 14-28 days\
+Harvest: 50-70 days
+
+---
+
+##### Save and store
+
+Fresh herbs can be refridgerated wrapped lightly in plastic.
+
+To dry, hang in dark well ventilated area 3-4 days. If not dry, can put in oven with door open on lowest setting. Once dry, store in an airtight container or in the freezer. Crush just before using. Can last up to two years.
+
+To freeze, package whole or chopped leaves in airtight, resealabe bags then place in freezer.
+
+---
+
+##### Collect Seeds
+
+place flower in a small paper bag with a few tiny holes for ventilation, and wait for the seeds to fall and gather in the bottom of the bag.
+
+---
+
+Most info from <a href="https://www.thespruce.com/" target="_blank">The Spruce</a> and <a href="https://www.almanac.com/" target="_blank">Old Farmer's Almanac</a>
