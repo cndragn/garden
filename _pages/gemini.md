@@ -11,6 +11,8 @@ imageshadow: true
 
 Aloe is a succulent that grows best in dry conditions and needs a lot of light. Allow soil to completely dry before watering again. Totally drench when watering.
 
+[Detailed Care Info](care#aloe-vera)
+
 ##### Updates
 
 <img class="figure-img" src="{{site.baseurl}}/assets/images/gemini/gemini-jul20.jpg">

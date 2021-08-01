@@ -7,9 +7,11 @@ image: assets/images/zoltan/zoltan.jpg
 imageshadow: true
 ---
 
-#### Earth Star | Cryptanthus Zonatus | Bromeliade
+#### Earth Star | Cryptanthus Zonatus | Bromeliad
 
 Cryptanthus Bromeliads are a rather funky looking houseplant with stiff, slightly coarse leaves. Also known as Earth star due to its interesting shape, the species is available in countless colorful and less colorful varieties.
+
+[Detailed Care Info](care#bromeliad)
 
 ##### Updates
 

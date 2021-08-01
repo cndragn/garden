@@ -11,6 +11,8 @@ imageshadow: true
 
 Monsteras are often called Swiss cheese plants or vines for their leaves lacy holes and notches, and adansonii is arguably the cheesiest of them all. Also known as "Adanson's monstera", this plant is petite, more delicate and has a trailing quality that sets it apart from its more commonly known cousin, Monstera Deliciosa.
 
+[Detailed Care Info](care#monstera-adansonii)
+
 ##### Updates
 
 <img class="figure-img" src="{{site.baseurl}}/assets/images/bubbles/bubbles-jul21-21.jpg">

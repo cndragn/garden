@@ -7,9 +7,11 @@ image: assets/images/luci/luci.jpg
 imageshadow: true
 ---
 
-#### Devil's Ivy | Golden Pothos
+#### Golden Pothos | Epipremnum Aureum
 
-Pothos is super easy going and can do well in bright or low light, and fine with dry soil or even vases of water. Can survive and grow in just about any environment and can get out of control, giving it the name the Devil's Ivy.
+This traditional pothos variety features heart-shaped mid-green foliage splashed in creamy gold. Can survive and grow in just about any environment and can get out of control, giving it the name the Devil's Ivy.
+
+[Detailed Care Info](care#pothos)
 
 ##### Updates
 

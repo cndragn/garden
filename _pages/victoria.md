@@ -7,9 +7,11 @@ image: assets/images/victoria/victoria.jpg
 imageshadow: true
 ---
 
-#### Devil's Ivy | Marble Queen Pothos
+#### Marble Queen Pothos | Epipremnum Aureum
 
-Pothos is super easy going and can do well in bright or low light, and fine with dry soil or even vases of water. Can survive and grow in just about any environment and can get out of control, giving it the name the Devil's Ivy.
+A varietal with an exceptionally attractive white-and-green variegated heart shaped leaves. It will need more light than most pothos in order to maintain its unique coloring.
+
+[Detailed Care Info](care#pothos)
 
 ##### Updates
 

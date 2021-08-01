@@ -7,9 +7,11 @@ image: assets/images/naga/naga.jpg
 imageshadow: true
 ---
 
-#### Snake Plant | Sansevieria Trifasciata
+#### Snake Plant | Bird's Nest | Sansevieria Trifasciata 
 
 Ever wonder why you never see artificial snake plants? It's because you don't need artificial versions. The real thing is pretty much unkillable and survives in almost any growing condition.
+
+[Detailed Care Info](care#snake-plant)
 
 ##### Updates
 

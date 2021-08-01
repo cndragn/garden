@@ -11,6 +11,8 @@ imageshadow: true
 
 This cultivar is actually a product of a breeding program, and originates from the Marble Queen Pothos. Unlike its parents speckled colouring, the variegation on this pothos is well-defined with a distinct separation of green and white.
 
+[Detailed Care Info](care#pothos)
+
 ##### Updates
 
 <img class="figure-img" src="{{site.baseurl}}/assets/images/serima/serima-jul21-21.jpg">

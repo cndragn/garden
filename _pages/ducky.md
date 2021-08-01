@@ -11,6 +11,8 @@ imageshadow: true
 
 Peperomia obtusifolia is commonly known as the American rubber plant, baby rubber plant and pepper face plant. This is a gorgeous plant known for its thick, deep green glossy leaves and thick branch-like stems.
 
+[Detailed Care Info](care#baby-rubber)
+
 ##### Updates
 
 <img class="figure-img" src="{{site.baseurl}}/assets/images/ducky/ducky-jul20-21.jpg">

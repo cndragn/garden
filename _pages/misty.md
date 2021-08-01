@@ -11,6 +11,8 @@ imageshadow: true
 
 The peace lily is an easy to care for plant that likes medium to low light. More light produces the lily-like leaves, while in low light the plant will look like a regular foilage plant. Drought tolerant, so don't overwater. Can wait until topsoil is dry, or even til the plant begins to wilt to water again. Mist daily.
 
+[Detailed Care Info](care#peace-lily)
+
 ##### Updates
 
 <img class="figure-img" src="{{site.baseurl}}/assets/images/misty/misty-jul20-21.jpg">

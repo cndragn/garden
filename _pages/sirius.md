@@ -1,15 +1,17 @@
 ---
 layout: page
-title: Sirius (Calethea Beauty Star)
+title: Sirius (Calathea Beauty Star)
 permalink: /sirius
 comments: false
 image: assets/images/sirius/sirius.jpg
 imageshadow: true
 ---
 
-#### Calethea Beauty Star | Goeppertia Ornata
+#### Calathea Beauty Star | Goeppertia Ornata
 
 Like other plants in the marantaceae family, this Calathea has the interesting habit of rising leaves in the morning and lowering them at night, like in prayer, giving it the nickname "prayer plant." This is the very same plant as the Pinstripe, Beauty Star is simply another name it's known by.
+
+[Detailed Care Info](care#calathea)
 
 ##### Updates
 

@@ -11,6 +11,8 @@ imageshadow: true
 
 Scindapsus Pictus is commonly sold as a Satin pothos or Silver philodendron, but it's neither a pothos or a philodendron. The heart-shaped leaves have silvery grey splotches, which makes them look almost shiny and adds to the visual appeal of the plant.
 
+[Detailed Care Info](care#pothos-satin)
+
 ##### Updates
 
 <img class="figure-img" src="{{site.baseurl}}/assets/images/charmeuse/charmeuse-jul21-21.jpg">

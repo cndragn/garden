@@ -1,15 +1,17 @@
 ---
 layout: page
-title: Stilletto (Calethea Pinstripe)
+title: Stilletto (Calathea Pinstripe)
 permalink: /stilletto
 comments: false
 image: assets/images/stilletto/stilletto.jpg
 imageshadow: true
 ---
 
-#### Calethea Pinstripe | Goeppertia Ornata
+#### Calathea Pinstripe | Goeppertia Ornata
 
 Like other plants in the marantaceae family, this Calathea has the interesting habit of rising leaves in the morning and lowering them at night, like in prayer, giving it the nickname "prayer plant." This is the very same plant as the Beauty Star, Pinstripe is simply another name it's known by.
+
+[Detailed Care Info](care#calathea)
 
 ##### Updates
 

@@ -11,6 +11,8 @@ imageshadow: true
 
 Calathea Vittata is a remarkable variety that features very attractive bold lines and patterns. The leaves dramatically fold up during the nighttime hours and open again in the morning.
 
+[Detailed Care Info](care#calathea)
+
 ##### Updates
 
 <img class="figure-img" src="{{site.baseurl}}/assets/images/vittus/vittus-jul21-21.jpg">

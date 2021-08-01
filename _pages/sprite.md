@@ -11,6 +11,8 @@ imageshadow: true
 
 The maranta is a close relative to the calathea with its boldly patterned foliage, and tendency to fold its leaves every night. This lemon lime variety has a uniquely striped pattern on its leaves, with a mix of green, chartreuse, and yellow colors. It is nicknamed the prayer plant because of that habit of folding its leaves, and has a tendency toward trailing.
 
+[Detailed Care Info](care#prayer-plant)
+
 ##### Updates
 
 <img class="figure-img" src="{{site.baseurl}}/assets/images/sprite/sprite-jul21-21.jpg">

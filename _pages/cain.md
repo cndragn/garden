@@ -11,6 +11,8 @@ imageshadow: true
 
 Dieffenbachia Camouflage is an eye-catching plant with uniquely patterned foliage on large, lush leaves. The name "dumb cane" comes from its ability to cause mouth paralysis and speechlessness in those who bite the plant.
 
+[Detailed Care Info](care#dieffenbachia)
+
 ##### Updates
 
 <img class="figure-img" src="{{site.baseurl}}/assets/images/cain/cain-jul21-21.jpg">

@@ -11,6 +11,8 @@ imageshadow: true
 
 Loved for their thick fleshy leaves and stems as well as their forgiving nature, Jade plants may also be referred to as the money plant, money tree, dollar plant, and lucky plant.
 
+[Detailed Care Info](care#jade-plant)
+
 ##### Updates
 
 <img class="figure-img" src="{{site.baseurl}}/assets/images/malachi/malachi-jul20-21.jpg">
